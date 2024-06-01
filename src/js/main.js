@@ -23,7 +23,7 @@
         ));
 
       if (distance <= 0) {
-        window.open("../biru-1/index.html", "_self");
+        window.open("https://for-shabira.github.io/biru-1/", "_self");
 
         clearInterval(x);
       }
